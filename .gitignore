@@ -1,0 +1,4 @@
+target
+out.*
+/logs
+/scrabble-psx-word-list.txt

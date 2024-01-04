@@ -1,0 +1,10 @@
+MovieVersion BizHawk v2.0
+Author default user
+emuVersion Version 2.9.1
+OriginalEmuVersion Version 2.9.1
+Platform PSX
+GameName Scrabble (USA)
+SHA1 842116CF
+PSX_Firmware_U 0555C6FAE8906F3F09BAF5988F00E55F88E9F30B
+Core Nymashock
+
